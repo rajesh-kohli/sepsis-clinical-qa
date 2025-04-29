@@ -6,4 +6,4 @@ This repository contains:
 - `report/sepsis_qa.pdf`: ACM-style 5-page report (compiled via Overleaf).  
 - `report/sepsis_qa.tex` & `references.bib`: LaTeX source.  
 
-See [report/sepsis_qa.pdf](report/sepsis_qa.pdf) for the full write-up.
+See [sepsis_qa.pdf](https://github.com/rajesh-kohli/sepsis-clinical-qa/blob/main/sepsis_qa.pdf) for the full write-up.
